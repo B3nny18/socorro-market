@@ -17,5 +17,21 @@ A Java-based desktop application that simulates a marketplace system, allowing u
 - CSV file I/O
 - Object-Oriented Programming (Inheritance & Polymorphism)
 
-## 📂 Project Structure
+
+## ▶️ How to Run
+
+1. Open the project in Eclipse or any Java IDE
+2. Ensure all `.csv` files are in the project root
+3. Run `Main.java` to start the application
+4. Follow console prompts to operate as either a customer or manager
+
+## ✅ Learning Outcomes
+
+- Reinforced understanding of class design, inheritance, and encapsulation
+- Practiced file handling using CSV in Java
+- Developed modular design with reusable components
+
+## 📜 License
+
+This project is for educational purposes only.
 
