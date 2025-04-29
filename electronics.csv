@@ -1,0 +1,5 @@
+productID,name,price,description,stockQuantity,brand,model,warrantyPeriod
+300,Laptop Pro 15,1200.0,High-performance laptop for work and gaming,9,ASUS,ZenBook Pro,2
+301,Wireless Mouse,25.99,Ergonomic wireless mouse with long battery life,22,Logitech,MX Master 3,2
+302,Mechanical Keyboard,89.99,RGB mechanical keyboard with blue switches,20,Keychron,K8,1
+303,UltraSharp Monitor,299.99,27-inch 1440p professional monitor,4,Dell,U2723QE,3

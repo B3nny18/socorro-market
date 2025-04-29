@@ -1,0 +1,5 @@
+productID,name,price,description,stockQuantity,author,ISBN,publisher,genre
+200,The Great Gatsby,10.99,Classic American novel about wealth and love,30,F. Scott Fitzgerald,9780743273565,Scribner,Fiction
+201,1984,9.99,Dystopian novel of totalitarian control,40,George Orwell,9780451524935,Signet Classics,Dystopian Fiction
+202,Pride and Prejudice,8.99,Romantic novel of manners,31,Jane Austen,9781503290563,CreateSpace Independent,Romance
+203,To Kill a Mockingbird,12.99,Novel about racial injustice in the Deep South,45,Harper Lee,9780061120084,Harper Perennial Modern Classics,Historical Fiction
