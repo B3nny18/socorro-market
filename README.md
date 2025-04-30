@@ -24,14 +24,3 @@ A Java-based desktop application that simulates a marketplace system, allowing u
 2. Ensure all `.csv` files are in the project root
 3. Run `Main.java` to start the application
 4. Follow console prompts to operate as either a customer or manager
-
-## ✅ Learning Outcomes
-
-- Reinforced understanding of class design, inheritance, and encapsulation
-- Practiced file handling using CSV in Java
-- Developed modular design with reusable components
-
-## 📜 License
-
-This project is for educational purposes only.
-
